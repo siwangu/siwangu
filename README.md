@@ -1,59 +1,56 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/oEI9uBYSzZriVFGDG0/giphy.gif" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Initializing+System...;Authenticating+User%3A+REALIST;Loading+Rust+Core...;Low-Level+Vectors+Active;Termux+Resident;>_SYSTEM+OPERATIONAL" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <h1><code>[ SYSTEM STATUS: OPERATIONAL ]</code></h1>
   <h3><code>Logical Realist // ARM64 Power User // Termux Subculture Analyst</code></h3>
+  <i>"Refactoring reality, one code vector at a time."</i>
 </div>
 
 ---
 
 <details open>
-<summary><b>📂 <font color="#00ff00">[Core_Monitor_Grid]</font></b></summary>
+<summary><b>📂 <font color="#00d2ff">[System_Core_Stack]</font></b></summary>
 <br />
 
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHubID&layout=compact&theme=cyberpunk&hide_border=true&langs_count=6" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=siwangu&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=siwangu &theme=cyberpunk&area=true&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://img.shields.io/badge/rust-%23E57324.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
+  <br />
+  <img src="https://img.shields.io/badge/termux-%23EF5350.svg?style=for-the-badge&logo=termux&logoColor=white" alt="Termux" />
+  <img src="https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android ARM64" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github_actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="Automation" />
+</div>
 </details>
 
 <br />
 
 <details open>
-<summary><b>📡 <font color="#00ff00">[Hardware_Environment_Status]</font></b></summary>
+<summary><b>📊 <font color="#00d2ff">[Activity_Monitor]</font></b></summary>
 <br />
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/00ff00/siwangu" alt="Your GitHub Contributions Chart" width="100%" />
+</p>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/OS-Linux%20(Termux)-00ff00?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/ARCH-ARM64%20(Mobile)-00ff00?style=for-the-badge&logo=android&logoColor=black" />
-  <img src="https://img.shields.io/badge/RUNTIME-Node.js%20%2F%20Rust-00ff00?style=for-the-badge&logo=node.js&logoColor=black" />
+  <code>// Data Source: OFFICIAL_GITHUB_API_HASH // Sector: Pure Frontend //</code>
 </div>
 </details>
 
 <br />
 
 <details>
-<summary><b>🧠 <font color="#00ff00">[Deep_Logic_Logs // Click_to_Decrypt]</font></b></summary>
-<br>
+<summary><b>🧠 <font color="#00d2ff">[Deep_Logic_Logs // Click_to_Decrypt]</font></b></summary>
+<br />
 
-#### 🔍 Current Observation Vectors:
+#### 🔍 Current Vectors of Analysis:
 
-* 🤖 **AI Automation (Termux/OpenClaw):** Optimizing autonomous agent deployment on smartphone-based Linux environments. 
-* 📱 **Hardware Realism:** Pushing ARM64 limits for low-level server-side tasks.
-* 🌐 **Social Mechanics:** Applying technological determinism to analyze online subcultures and socio-economic realism.
+* 🤖 **Terminal AI Agents:** Optimizing autonomous agent deployment within the **Termux** runtime environment. Seeking ARM64 efficiency.
+* 📱 **Hardware Realism & Aesthetics:** Exploring the intersection of high-end smartphone hardware, media scrapping, and socio-technical realism.
+* 🌐 **Subculture Mechanics:** Analyzing online subcultures and socio-economic systems through cold technological logic.
 
 ---
 
@@ -64,7 +61,6 @@
 <br />
 
 <p align="center">
-  <img src="https://media.giphy.com/media/oEI9uBYSzZriVFGDG0/giphy.gif" width="100%" />
-  <br />
+  <img src="https://media.giphy.com/media/oEI9uBYSzZriVFGDG0/giphy.gif" width="100%" height="2px" alt="Matrix line" />
   <code>EOF // System Standing By</code>
 </p>
