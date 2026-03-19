@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2MzY2Q4YWNhMzllNGRmOWY4NTAyYWRiOWRlNjg0YjA0YTAyYmUzYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/oEI9uBYSzZriVFGDG0/giphy.gif" width="100%" height="20" />
+  <img src="https://media.giphy.com/media/oEI9uBYSzZriVFGDG0/giphy.gif" width="100%" />
 </p>
 
 <div align="center">
@@ -16,7 +16,7 @@
 <table align="center" border="0">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siwangu &layout=compact&theme=cyberpunk&hide_border=true&langs_count=6" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHubID&layout=compact&theme=cyberpunk&hide_border=true&langs_count=6" />
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=siwangu&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" />
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=你的GitHubID&theme=cyberpunk&area=true&hide_border=true" width="100%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=siwangu &theme=cyberpunk&area=true&hide_border=true" width="100%" />
     </td>
   </tr>
 </table>
@@ -64,6 +64,7 @@
 <br />
 
 <p align="center">
-  <img src="https://media.giphy.com/media/oEI9uBYSzZriVFGDG0/giphy.gif" width="100%" height="2px" />
+  <img src="https://media.giphy.com/media/oEI9uBYSzZriVFGDG0/giphy.gif" width="100%" />
+  <br />
   <code>EOF // System Standing By</code>
 </p>
