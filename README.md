@@ -50,7 +50,6 @@
 
 * 🤖 **Terminal AI Agents:** Optimizing autonomous agent deployment within the **Termux** runtime environment. Seeking ARM64 efficiency.
 * 📱 **Hardware Realism & Aesthetics:** Exploring the intersection of high-end smartphone hardware, media scrapping, and socio-technical realism.
-* 📡 **Media Processing:** Automating complex `m3u8` scraping and video transcoding workflows on mobile CPUs.
 * 🌐 **Subculture Mechanics:** Analyzing online subcultures and socio-economic systems through cold technological logic.
 
 ---
